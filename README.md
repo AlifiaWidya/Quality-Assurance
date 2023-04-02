@@ -44,7 +44,7 @@ git clone <Link repo>
 Once you have the repository on your machine, you can explore the use cases in the **_features_** directory.
 
 ## Usage
-The Zoom program can be tested using the scenarios in the features directory. You may run these tests automatically and produce reports on the test results using a testing framework like Cucumber.
+The Zoom program can be tested using the scenarios in the features directory. These use cases can be used as a reference for manual or automated testing of the Zoom application. You may run these tests automatically and produce reports on the test results using a testing framework like Cucumber.
 
 ## Contributing
 Please fork the repository and send a pull request with your changes if you would want to contribute to it.
