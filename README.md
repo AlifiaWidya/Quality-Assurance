@@ -24,15 +24,15 @@ To execute the test cases, you will need:
 ## Top 10 Use Cases
 The top 10 use cases for Zoom application, ordered by priority, are:
 1.  Video Conferencing
-2.  Screen Sharing
-3.  Recording
-4.  Chat
-5.  Breakout Rooms
-6.  Audio Conferencing
-7.  Virtual Background
-8.  Setting
-9.  Security 
-10. Mobile App
+2.  Audio Conferencing
+3.  Screen Sharing
+4.  Recording
+5.  Chat
+6.  Breakout Rooms
+7.  Mobile App
+8.  Security 
+9.  Virtual Background
+10. Setting
 
 For each use case, we provided a Gherkin scenario that describes the behavior that should be expected from the application. These scenarios can be used as test cases to validate the application's functionality.
 
