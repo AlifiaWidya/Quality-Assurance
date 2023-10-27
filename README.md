@@ -48,6 +48,3 @@ The Zoom program can be tested using the scenarios in the features directory. Th
 
 ## Contributing
 Please fork the repository and send a pull request with your changes if you would want to contribute to it.
-
-## Credits
-These use cases were created by Alifia, inspired by the "Take Home Challenge Submission [SQA]" given by Datasaur.ai.
